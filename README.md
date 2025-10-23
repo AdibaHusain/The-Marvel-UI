@@ -34,9 +34,9 @@ A stunning React + Tailwind CSS UI inspired by Marvel’s legacy — featuring c
 
 ## Learning Highlights
 
-This project helped me explore:
-Component-based UI design
-Reusable props & dynamic rendering
-Tailwind animation utilities
-Clean folder structuring in React projects
->>>>>>> a2a95fc23e5720e66a02d23a05f08635c99f8d70
+*This project helped me explore:
+*Component-based UI design
+*Reusable props & dynamic rendering
+*Tailwind animation utilities
+*Clean folder structuring in React projects
+
