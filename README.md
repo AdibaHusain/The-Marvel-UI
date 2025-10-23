@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,38 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# The-Marvel-UI
+A stunning React + Tailwind CSS UI inspired by Marvel’s legacy — featuring continuous animated hero cards, smooth transitions, and a modern, minimal aesthetic.
+
+ **“Legends never fade — they redefine eternity.”**  
+ A visually captivating React + Tailwind CSS website inspired by the heroes who started it all — Iron Man and Captain America.  
+ This project celebrates their timeless legacy through animated motion cards, seamless scrolling effects, and a modern, cinematic design.
+
+## Features
+
+- ⚡ Built with **React + Vite**
+- 🎨 Styled using **Tailwind CSS**
+- 🧭 Smooth **horizontal infinite scrolling animation**
+- 🦾 Clean, minimal & responsive layout
+- 💬 Dedicated tribute sections for **Iron Man** and **Captain America**
+- 🧩 Modular component structure for easy customization
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| React | Frontend Framework |
+| Vite | Lightning-fast bundler |
+| Tailwind CSS | Styling & animations |
+| Lucide React | Beautiful icons |
+| JavaScript (ES6+) | Logic & interactivity |
+
+## Learning Highlights
+
+This project helped me explore:
+Component-based UI design
+Reusable props & dynamic rendering
+Tailwind animation utilities
+Clean folder structuring in React projects
+>>>>>>> a2a95fc23e5720e66a02d23a05f08635c99f8d70
